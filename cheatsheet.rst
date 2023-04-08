@@ -2,5 +2,5 @@
 Git
 ====
 
-Git cheatsheet
+**Git cheatsheet**
 --------------
