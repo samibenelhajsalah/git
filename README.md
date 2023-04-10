@@ -18,3 +18,6 @@
 
 for more details see [git doc](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Gestion-des-branches), [vs code](https://code.visualstudio.com/docs/languages/markdown) and [framasoft](https://docs.framasoft.org/fr/grav/markdown.html)
 
+##### Extension
+- Graph: GitLens — Git supercha , Git Graph
+
