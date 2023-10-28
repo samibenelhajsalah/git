@@ -21,3 +21,17 @@ for more details see [git doc](https://git-scm.com/book/fr/v2/Les-branches-avec-
 ##### Extension
 - Graph: GitLens — Git supercha , Git Graph
 
+##### Astuces
+```
+Utilisation de 'master' comme nom de la branche initiale. Le nom de la branche
+astuce: par défaut peut changer. Pour configurer le nom de la branche initiale
+astuce: pour tous les nouveaux dépôts, et supprimer cet avertissement, lancez :
+astuce: 
+astuce:         git config --global init.defaultBranch <nom>
+astuce: 
+astuce: Les noms les plus utilisés à la place de 'master' sont 'main', 'trunk' et
+astuce: 'development'. La branche nouvellement créée peut être rénommée avec :
+astuce: 
+astuce:         git branch -m <nom>
+```
+
